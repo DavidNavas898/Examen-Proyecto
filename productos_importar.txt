@@ -1,0 +1,2 @@
+nombre;descripcion;categoria_id;unidad;precio
+Cacahuete Morado;Cacahuete traido de pasto;3;2';123313123
